@@ -47,7 +47,14 @@ Step 2. Install Dependencies
 npm install
 ```
 
-Step 3. Run
+Step 3. Install node-jq binary
+
+```
+cd node_modules/node-jq
+npm run install-binary
+```
+
+Step 4. Run
 
 ```
 npm start
